@@ -2,7 +2,8 @@
 
 This is a repository for introduction into NuGet and walkthroughs for some common real-world scenarios.
 
-# What is nuget?
+# What is NuGet?
+- NuGet folders ()
 # What do we want to use it for?
 # Tutorial 1 - original project, js lib, static content, class to be moved to external reference, build (sign target?)
 - move to separate projects
@@ -21,7 +22,8 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 - commandline upgrade
 - symbol feed
 - scripts 
-- replace nuget ref with project ref (extension)?
+- replace nuget ref with project ref (VS extension - NuGet Reference Switcher)
+- tag NuGet branch on release
 - create a local prerelease feed 
 - create nuget on build, pack and publish to prerelease feed
 - upgrade packages by hand (?)
