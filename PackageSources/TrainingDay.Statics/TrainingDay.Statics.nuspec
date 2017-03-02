@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TrainingDay.Statics</id>
+    <version>1.0.0</version>
+    <authors>wojtek</authors>
+    <owners>wojtek</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Static content</description>
+    <releaseNotes>A great start!</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
