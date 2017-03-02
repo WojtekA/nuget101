@@ -3,8 +3,12 @@
 This is a repository for introduction into NuGet and walkthroughs for some common real-world scenarios.
 
 # What is NuGet?
-- NuGet folders ()
+- Package manager, far from ideal, but with no real alternatives
+- NuGet folders (lib, content, tools, build)
+
 # What do we want to use it for?
+- Extract stable codebase parts to limit the amount of 
+
 # Tutorial 1 - original project, js lib, static content, class to be moved to external reference, build (sign target?)
 - move to separate projects
 - create nuget packages
