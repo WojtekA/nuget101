@@ -9,6 +9,13 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 # What do we want to use it for?
 - Extract stable codebase parts to limit the amount of 
 
+# Scenario 1
+- Step 1 - Initial project 
+- Step 2 - Prepare to create packages
+- Step 3 - Create packages
+- Step 4 - Publish packages, install packages in project
+- Step 5 - Update and publish packages
+
 # Tutorial 1 - original project, js lib, static content, class to be moved to external reference, build (sign target?)
 - move to separate projects
 - create nuget packages

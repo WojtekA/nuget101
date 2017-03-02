@@ -64,6 +64,10 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="TrainingDay.Greeter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TrainingDay.Greeter.1.0.0\lib\net452\TrainingDay.Greeter.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
@@ -77,6 +81,8 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="pic.jpg" />
+    <Content Include="script.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -91,12 +97,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\PackageSources\TrainingDay.Greeter\TrainingDay.Greeter.csproj">
-      <Project>{274e43b8-74ee-4a8a-8d8e-970f63588d86}</Project>
-      <Name>TrainingDay.Greeter</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
