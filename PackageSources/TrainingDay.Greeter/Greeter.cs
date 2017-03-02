@@ -4,7 +4,7 @@
     {
         public static string GetGreeting(string name)
         {
-            return "Hello! " + name;
+            return "Hello again! " + name;
         }
     }
 }
