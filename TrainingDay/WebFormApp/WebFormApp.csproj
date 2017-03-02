@@ -93,7 +93,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\PackageSources\TrainingDay.Greeter\TrainingDay.Greeter\TrainingDay.Greeter.csproj">
+    <ProjectReference Include="..\..\PackageSources\TrainingDay.Greeter\TrainingDay.Greeter.csproj">
       <Project>{274e43b8-74ee-4a8a-8d8e-970f63588d86}</Project>
       <Name>TrainingDay.Greeter</Name>
     </ProjectReference>
