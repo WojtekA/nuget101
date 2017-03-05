@@ -15,15 +15,7 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 - Step 3 - Create packages
 - Step 4 - Publish packages, install packages in project
 - Step 5 - Update and publish packages
-
-# Tutorial 1 - original project, js lib, static content, class to be moved to external reference, build (sign target?)
-- move to separate projects
-- create nuget packages
-- publish nuget packages
-- install nuget packages (show filesystem changes)
-- update and publish nuget packages
-- upgrade nuget packages
-- reinstall nuget packages
+- Step 6 - Package switcher and symbols 
 
 # Tutorial 2 - nuget package development 
 - what is a good candidate for a nuget package?
