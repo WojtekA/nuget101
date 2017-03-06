@@ -7,7 +7,14 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 - NuGet folders (lib, content, tools, build)
 
 # What do we want to use it for?
-- Extract stable codebase parts to limit the amount of 
+- Extract stable, independent codebase parts to increase modularization
+- Deliver some artifacts (js, css, images) in a convenient way 
+- Shorten build time 
+
+# Tools 
+- Visual Studio
+- a proper commandline
+- NuGet feed (MyGet.org)
 
 # Scenario 1 - nuget basics
 1. Initial project
@@ -17,7 +24,9 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 5. Update and publish packages
 
 # Scenario 2 - debugging
-6. Debugging - symbols 
+6. Debugging - symbols
+    - disable 'Just my code'
+    - enable 'Enable source server support'
 7. Debugging - NuGet Reference Switcher
 
 # TODO 
