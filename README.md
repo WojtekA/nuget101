@@ -15,7 +15,7 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 - Step 3 - Create packages
 - Step 4 - Publish packages, install packages in project
 - Step 5 - Update and publish packages
-- Step 6 - Package switcher and symbols 
+- Step 6 - Debugging - NuGet Reference Switcher, symbols 
 
 # Tutorial 2 - nuget package development 
 - what is a good candidate for a nuget package?
