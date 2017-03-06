@@ -9,28 +9,28 @@ This is a repository for introduction into NuGet and walkthroughs for some commo
 # What do we want to use it for?
 - Extract stable codebase parts to limit the amount of 
 
-# Scenario 1
-- Step 1 - Initial project 
-- Step 2 - Prepare to create packages
-- Step 3 - Create packages
-- Step 4 - Publish packages, install packages in project
-- Step 5 - Update and publish packages
-- Step 6 - Debugging - NuGet Reference Switcher, symbols 
+# Scenario 1 - nuget basics
+1. Initial project
+2. Prepare to create packages
+3. Create packages
+4. Publish packages, install packages in project
+5. Update and publish packages
 
-# Tutorial 2 - nuget package development 
-- what is a good candidate for a nuget package?
+# Scenario 2 - debugging
+6. Debugging - symbols 
+7. Debugging - NuGet Reference Switcher
+
+# TODO 
+- Spotting NuGets
+    - what is a good candidate for a nuget package? 
 - what is a poor candidate for a nuget package?
-- multiple feeds
-- prerelease feed
-- commandline upgrade
-- symbol feed
-- scripts 
-- replace nuget ref with project ref (VS extension - NuGet Reference Switcher)
-- tag NuGet branch on release
-- create a local prerelease feed 
-- create nuget on build, pack and publish to prerelease feed
-- upgrade packages by hand (?)
-- build time impact
-- show a problem with a nuget that has too many responsibilities
-
-# Tutorial 3 - DH nuget install? (what to do with DB scripts?) proper SemVer 
+- NuGet scripting 
+- Development setup
+    - multiple feeds
+    - prerelease feed
+    - symbol feed
+    - local / remote feeds
+    - automate nuget build and publish 
+    - tag NuGet branch on release
+- Best practices
+    - build time impact
