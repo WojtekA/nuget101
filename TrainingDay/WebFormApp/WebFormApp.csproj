@@ -64,9 +64,9 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="TrainingDay.Greeter, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\TrainingDay.Greeter.1.0.0.1\lib\net452\TrainingDay.Greeter.dll</HintPath>
+    <Reference Include="TrainingDay.Greeter, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TrainingDay.Greeter.1.0.0.2\lib\net452\TrainingDay.Greeter.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -11,4 +11,7 @@
     <releaseNotes>Move along.</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
+  <files>
+    <file src="**\*.cs" target="src" />
+  </files>
 </package>
